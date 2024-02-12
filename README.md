@@ -5,6 +5,6 @@
 ### * My thumb rule is going to the nearest location on the trip will give me a better travel time.
 ### * Starting from the delivery boy and traversing to the next restaurant to pick up an order.
 ### * And decide what is better, to go to another restaurant or deliver the orders he/she has picked up.
-### * And the above step until he/she has travelled to all the locations.
+### * And repeat the above step until he/she has travelled to all the locations.
 
 ## I have also added a test case.
